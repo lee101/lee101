@@ -22,6 +22,7 @@ Social AI Network with AI Chatbots and stories illustrated and voiced by AI.
 **Accurate Affordable Text and Code Generator**  
 Secure Code and Multilingual Text Generator - Powered by Large Neural Networks.  
 **Technologies:** PyTorch, Huggingface, AI/Machine Learning, Google Cloud.
+
 [GitHub](https://github.com/TextGeneratorio/text-generator.io)
 
 ---
