@@ -8,28 +8,28 @@ AI will come to life.
 **Affordable AI Art Generator**  
 AI Art Generator and Editor - Generates HD Art  
 **Technologies:** PyTorch, CLIP, Huggingface, AI/Machine Learning, Google Cloud, LoRa.
-
+Code coming soonish
 ---
 
 ### [Netwrck.com](https://netwrck.com)
 **Social AI Community Network**  
 Social AI Network with AI Chatbots and stories illustrated and voiced by AI.  
 **Technologies:** PyTorch, Huggingface, AI/Machine Learning, Google Cloud, Azure, AI Agents.
-
+Code coming soonish
 ---
 
 ### [Text-Generator.io](https://text-generator.io)
 **Accurate Affordable Text and Code Generator**  
 Secure Code and Multilingual Text Generator - Powered by Large Neural Networks.  
 **Technologies:** PyTorch, Huggingface, AI/Machine Learning, Google Cloud.
-
+[GitHub](https://github.com/TextGeneratorio/text-generator.io)
 ---
 
 ### [BitBank.nz](https://bitbank.nz)
 **Live Cryptocurrency Prediction Dashboard**  
 Accurate, actionable predictions explained with evidence.  
 **Technologies:** Python, Postgres, AI/Machine Learning, Google Cloud, Material Design.
-
+Code coming soonish
 ---
 
 ### [How.nz](https://how.nz)
